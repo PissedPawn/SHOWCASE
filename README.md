@@ -25,3 +25,12 @@ Shuriken throw & Move to marked target:
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/139351245-9cb9f381-c1f1-400d-86f0-9e272e10abd7.gif)
+
+
+
+
+Special Effect Spawn VFX:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/142420278-1343b3a6-e5d0-4aab-ae26-369e55b6fad9.gif)
+
+
