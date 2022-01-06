@@ -57,3 +57,11 @@ Basic Enemy AI for hand combat with Animation State Machine Behaviour:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/147996250-7e3d4824-44ec-4538-b231-05a01f3db75c.gif)
 
 
+Enemy AI for shooters with  Animation State Machine Behaviour:
+
+Behaviour:
+Idle, Detection, Following, Attacking, Taking Cover, Leaving Cover
+
+https://user-images.githubusercontent.com/57664956/148326124-9a708da7-1ac2-4d7a-bdcd-8886881523e6.mp4
+
+
