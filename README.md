@@ -65,3 +65,10 @@ Idle, Detection, Following, Attacking, Taking Cover, Leaving Cover
 https://user-images.githubusercontent.com/57664956/148326124-9a708da7-1ac2-4d7a-bdcd-8886881523e6.mp4
 
 
+Water Shader with Depth Texture and Vertex Manipulation:
+
+
+
+https://user-images.githubusercontent.com/57664956/149330261-5e7958c3-80f6-46d1-9251-0a83f259757a.mp4
+
+
