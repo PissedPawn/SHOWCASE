@@ -72,3 +72,17 @@ Water Shader with Depth Texture and Vertex Manipulation:
 https://user-images.githubusercontent.com/57664956/149330261-5e7958c3-80f6-46d1-9251-0a83f259757a.mp4
 
 
+
+
+
+
+Equipping Different Weapons With Different Functionalities  (Extendable):
+
+
+
+https://user-images.githubusercontent.com/57664956/150693320-fd1bfc28-5f34-4588-94f0-0365e34c0c81.mp4
+
+
+
+
+
