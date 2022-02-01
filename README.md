@@ -85,4 +85,13 @@ https://user-images.githubusercontent.com/57664956/150693320-fd1bfc28-5f34-4588-
 
 
 
+Throw Spear To Target (Extendable):
+
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/151942461-b2ec78b9-475b-438d-87f5-2fa56fdd972b.gif)
+
+
+
+
 
