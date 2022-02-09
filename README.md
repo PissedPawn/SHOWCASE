@@ -6,7 +6,13 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
-Displayable progress so far:
+
+Grass Sway effect made with vertex manipulation according to values from noise and gradients (Unity Shaderlab):
+
+
+![garssswaygif](https://user-images.githubusercontent.com/57664956/153195974-e28bb2ff-ead9-468e-a859-1ed063653f61.gif)
+
+
 
 Inverse Kinematics for equipping different weapons like Rifle, Spear (more will be added) in different states like Idle, Aim:
 
