@@ -7,6 +7,12 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
 
+"Shooting arrows mid-air after double jump" for a platformer project - handled by Animation State Machine Behaviour:
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/57664956/156290984-cc34109c-afed-4a11-8e6f-641e8016919b.gif)
+
+
+
 Grass Sway effect made with vertex manipulation according to values from noise and gradients (Unity Shaderlab):
 
 
