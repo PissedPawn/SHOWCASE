@@ -7,6 +7,11 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
 
+Stealth Master Clone:  (Low Framerate is becasue of Gif Convertion is made with 10 fps)
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57664956/162339619-537ca0d3-1e2d-4067-8ea5-3a0021384855.gif)
+
 
 
 Grenade / Smoke / Flashbang (Scriptable Objects) :
