@@ -7,6 +7,13 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
 
+
+Island Sniper vs Pirates:
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/57664956/163699289-e609f999-5ccd-4a84-806d-59bca5d40a3f.gif)
+
+
+
 Stealth Master Clone:  (Low Framerate is becasue of Gif Convertion is made with 10 fps)
 
 
