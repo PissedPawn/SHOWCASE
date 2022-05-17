@@ -7,6 +7,12 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
 
+Equipping Gear To Use In Level:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/168799777-e7ba4f06-9632-4b1f-bf23-b55ea8407b04.gif)
+
+
+
 
 Island Sniper vs Pirates:
 
