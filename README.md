@@ -4,7 +4,7 @@ Unity 3D Showcase Repo
 
 This project is to demonstrate different skills and knowledge I possess in Game Development with Unity. Project with include Shaders, State Managers, Behaviour Trees, NavMesh, Animation, Particles etc.
 
-Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
+Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming games and fun little try-outs. 
 
 
 
