@@ -7,6 +7,16 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming game and fun little try-outs. 
 
 
+
+Island Sniper vs Pirates Update: 
+   - Hit tip of the cannon to make it explode
+   - Bullets reach time depends on the distance
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57664956/173531669-5e42a977-77c4-485d-ace7-30d413047481.gif)
+
+
+
+
 Equipping Gear To Use In Level:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57664956/168799777-e7ba4f06-9632-4b1f-bf23-b55ea8407b04.gif)
