@@ -6,6 +6,11 @@ This project is to demonstrate different skills and knowledge I possess in Game 
 
 Note: All of this stuff are the basic versions of functionalities I'm making for my upcoming games and fun little try-outs. 
 
+Some Texture Manipulations with shaders (HLSL):
+
+![TextureManipulation](https://user-images.githubusercontent.com/57664956/177983095-c02246b1-be02-484a-9004-e921b263ca88.gif)
+
+
 Zombie Survival Game:
 
 https://youtu.be/lepAUWRYGkw
